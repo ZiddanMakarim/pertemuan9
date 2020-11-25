@@ -86,7 +86,7 @@ print("==================================================================")
 Setelah ini selanjutnya kita akan membuat flowcart Sebagai Berikut
 
 
-![flowcart2](foto/flowcart2.png)
+![flowcart](Flowchart/flowerchat.pdf)
 
 ## Pertemuan 9 Praktikum 5
 Pada Pertemuan 9 Modul 5 dosen memberikan saya tugas untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. berikut soal yang dosen berikan:
@@ -328,5 +328,5 @@ Dari statement diatas, kita akan diminta untuk menginput nama, nim, nilai tugas,
 Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai'
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat.
-![hasil2](foto/hasil2.png)
-## Terimakasih
+![hasil2](foto/3.png)
+#Terimakasih
