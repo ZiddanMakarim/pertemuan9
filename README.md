@@ -1,7 +1,7 @@
-##  pertemuan9
-##  Nama:Ziddan Makarim
-## Kelas:TI.20.A1
-## NIM:312010063
+##  Tugas Pertemuan 9
+##  Nama: Ziddan Makarim
+## Kelas: TI.20.A1
+## NIM: 312010063
 ## MATKUL: BAHASA PEMROGRAMAN
 ______________________
 ## Program Data Mahasiswa
